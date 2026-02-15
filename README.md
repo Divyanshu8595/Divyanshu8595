@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a software engineer and AI/ML enthusiast from 
 - 🌱 **Currently learning:** Deep learning frameworks (PyTorch, TensorFlow), MLOps, and full‑stack web development.
 - 🧠 **Ask me about:** Machine learning, deep learning, Python, JavaScript, computer vision, and data science.
 - 💬 **Open to collaborating:** on interesting AI/ML projects and open source contributions.
-- 📬 **How to reach me:** [divyanshucloud@gmail.com](mailto:divyanshucloud@gmail.com) or [LinkedIn](https://www.linkedin.com/in/divyanshu-tiwari).
+- 📬 **How to reach me:** [divyanshucloud@gmail.com](mailto:divyanshucloud@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/divyanshu-tiwari-43151a20b/]).
 
 ## 🚀 Projects
 
