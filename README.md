@@ -1,33 +1,120 @@
-<h1 align="center">Hi there, I'm Divyanshu 👋</h1>
+<h1 align="center">Hi, I'm Divyanshu Tiwari 👋</h1>
+<h3 align="center">AI/ML Engineer | Multi-Agent Systems | LLM Applications</h3>
 
-Welcome to my GitHub profile! I'm a software engineer and AI/ML enthusiast from Gurugram, India, who loves building smart systems and solving real‑world problems.
+<p align="center">
+📍 Greater Noida, India  
+📧 divyanshucloud@gmail.com  
+🔗 <a href="https://www.linkedin.com/in/divyanshu-tiwari-43151a20b/">LinkedIn</a> |
+<a href="https://github.com/Divyanshu8595">GitHub</a> |
+<a href="https://www.kaggle.com/divyanshucloud">Kaggle</a> | 
+<a href="https://leetcode.com/u/divyanshucloud/">LeetCode<a/> |
+<a href="https://www.hackerearth.com/@divyanshucloud/">HackerEarth<a/>
+</p>
 
-- 🔭 **Currently working on:** AI/ML projects, computer vision, and my personal portfolio.
-- 🌱 **Currently learning:** Deep learning frameworks (PyTorch, TensorFlow), MLOps, and full‑stack web development.
-- 🧠 **Ask me about:** Machine learning, deep learning, Python, JavaScript, computer vision, and data science.
-- 💬 **Open to collaborating:** on interesting AI/ML projects and open source contributions.
-- 📬 **How to reach me:** [divyanshucloud@gmail.com](mailto:divyanshucloud@gmail.com) or [LinkedIn]([https://www.linkedin.com/in/divyanshu-tiwari-43151a20b/]).
+---
 
-## 🚀 Projects
+## 🚀 About Me
 
-Here are a few notable repositories you might be interested in:
+I’m a B.Tech Computer Science (IoT) student at **GNIOT (Expected May 2026)** with a **100% Merit Scholarship**.
 
-| Project | Description |
-|--------|-------------|
-| [divyanshu.github.io](https://github.com/Divyanshu8595/divyanshu.github.io) | Personal portfolio website |
-| [auntyScanner](https://github.com/Divyanshu8595/auntyScanner) | YOLOv5 number plate detection |
-| [mlprojects](https://github.com/Divyanshu8595/mlprojects) | ML experiments and notebooks |
-| [heartDiseasePrediction](https://github.com/Divyanshu8595/heartDiseasePrediction) | Heart disease risk prediction |
+I specialize in building **AI-driven systems**, working with **LLMs, knowledge graphs, semantic search, and scalable ML architectures**.
 
-Feel free to explore these repositories and more pinned on my profile.
+I focus on:
+- Building intelligent systems that solve real-world problems  
+- Clean architecture & scalable AI pipelines  
+- High-quality data validation & evaluation practices  
+
+---
+
+## 💼 Experience
+
+### 🧠 AI/ML Intern — Agivant Technologies
+
+- Built an **end-to-end multi-agent AI system** querying **10k+ nodes in Neo4j knowledge graph**
+- Implemented **LLM-based entity extraction**
+- Designed **semantic search + vector retrieval pipelines**
+- Worked on scalable AI architecture for real-world deployment
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+Python | Java (Basic–Intermediate)
+
+### 🤖 AI / ML
+Supervised & Unsupervised Learning  
+Model Evaluation (Accuracy, Precision, Recall)  
+NLP Basics  
+LLM Applications  
+Semantic Search & Vector Retrieval  
+
+### 📊 Data & Tools
+Pandas | NumPy | Scikit-learn  
+Jupyter Notebook | Excel (Pivot Tables, Lookups)
+
+### 🧠 Core Strengths
+Analytical Thinking  
+Attention to Detail  
+Logical Reasoning  
+Written Communication  
+Following Quality Guidelines  
+
+---
+
+## 🚀 Key Project
+
+### 🌾 Khetiharii – AI Farmer Support App
+
+- AI-based leaf disease detection system
+- Integrated **Gemini API + Firebase**
+- Focused on scalable architecture & production-ready deployment
+
+---
+
+## 🏆 Leadership
+
+### 🎓 Campus Lead — Google Developer Group (GDG) GNIOT
+- Selected **1/500+ applicants**
+- Led **10+ tech & AI/cloud events**
+
+### 👨‍💻 Organizer — Kotlin User Group (KUG) Gurugram
+- Co-organized **5+ city-level meetups**
+- Collaborated with **JetBrains & Google**
+
+---
+
+## 🏅 Achievements
+
+- 🥈 Semifinalist — Microsoft Imagine Cup 2024  
+- 🚀 Google Solution Challenge 2024 Bootcamp  
+- 🎯 Google India Student Launchpad 2025  
+- 💡 Solved 400+ DSA problems (HackerEarth, LeetCode)  
+
+---
+
+## 📜 Certifications
+
+Google ML Crash Course  
+Generative AI Fundamentals  
+ML & AI on Google Cloud  
+Data Analysis  
+Security Risk Management  
+
+---
 
 ## 📊 GitHub Stats
 
-<!-- GitHub stats (optional) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Divyanshu8595&show_icons=true&count_private=true&hide_title=true" alt="GitHub Stats" />
+| 🚀 Featured Projects | 🔗 Link |
+|----------------------|--------|
+| Personal Portfolio | https://github.com/Divyanshu8595/divyanshu.github.io |
+| Aunty Scanner | https://github.com/Divyanshu8595/auntyScanner |
+| ML Projects | https://github.com/Divyanshu8595/mlprojects |
+| Heart Disease Prediction | https://github.com/Divyanshu8595/heartDiseasePrediction |
 
-## 💼 About Me
+<br>
 
-I’m passionate about using data and algorithms to create solutions that make a positive impact. With experience in Python, computer vision, and full‑stack development, I enjoy turning complex problems into simple, user‑friendly applications. When I’m not coding, I love exploring new technologies, reading about AI advances, and sharing knowledge with the community.
 
-Thank you for visiting my profile! 🌟
+---
+
+⭐ Open to collaborating on impactful AI/ML projects and real-world problem-solving systems.
