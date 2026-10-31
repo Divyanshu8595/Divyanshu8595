@@ -1,13 +1,17 @@
+
 <h1 align="center">Hi, I'm Divyanshu Tiwari 👋</h1>
-<h3 align="center">AI/ML Engineer | GenAI Developer | Full-Stack Builder</h3>
+
+<h3 align="center">Product-Minded Engineer | AI/ML Developer | Full-Stack Builder</h3>
 
 <p align="center">
-  📍 Greater Noida, India  
-  📧 <a href="mailto:divyanshucloud@gmail.com">divyanshucloud@gmail.com</a> | 📞 +91 8595126184  
+  📍 Greater Noida, India
+  <br>
+  📧 <a href="mailto:divyanshucloud@gmail.com">Email</a> |
+  📞 +91 8595126184
   <br>
   🔗 <a href="https://www.linkedin.com/in/divyanshu-tiwari-43151a20b/">LinkedIn</a> |
   <a href="https://github.com/Divyanshu8595">GitHub</a> |
-  <a href="https://www.kaggle.com/divyanshucloud">Kaggle</a> | 
+  <a href="https://www.kaggle.com/divyanshucloud">Kaggle</a> |
   <a href="https://leetcode.com/u/divyanshucloud">LeetCode</a> |
   <a href="https://www.hackerearth.com/@divyanshucloud/">HackerEarth</a>
 </p>
@@ -16,89 +20,133 @@
 
 ## 🚀 About Me
 
-I am a Computer Science graduate (**B.Tech, IoT — June 2026**) who is deeply curious about building AI-driven systems that solve messy, real-world problems. Rather than just toy demos, my focus is on building intelligent, end-to-end systems that are scalable, reliable, and production-ready.
+I'm a Computer Science graduate (**B.Tech, Computer Science & Engineering — IoT, June 2026**) passionate about turning real-world problems into useful technology products.
 
-- 🧠 **GenAI & RAG:** Designing post-training pipelines, RLHF, instruction tuning, and semantic search workflows.
-- 🏗️ **End-to-End Dev:** Bridging the gap between training ML pipelines and shipping interactive web applications.
-- 👥 **Community Builder:** Former Campus Lead for Google Developer Groups (GDG) GNIOT and organizer for Kotlin User Group (KUG) Gurugram.
+I enjoy working across the product development journey — understanding user problems, identifying opportunities, defining requirements, building prototypes, analyzing feedback, and improving solutions through iteration.
+
+My experience combines **product development, AI/ML engineering, data analytics, and community leadership**.
+
+- 🎯 **Product Thinking:** Understanding user needs, defining product requirements, prototyping, and iterative improvement.
+- 🤖 **AI & GenAI:** Building RAG systems, LLM applications, post-training pipelines, and intelligent product experiences.
+- 📊 **Data & Analytics:** Using Python, SQL, and visualization to extract insights and support data-informed decisions.
+- 🏗️ **Product Engineering:** Turning ideas into functional, end-to-end applications.
+- 👥 **Leadership:** Building developer communities and collaborating with diverse stakeholders.
 
 ---
 
 ## 💼 Experience
 
 ### 🧠 LLM Post-Training Intern — Ethara AI
-*Jan 2026 – Apr 2026*
+*January 2026 – April 2026*
+
 - Fine-tuned and evaluated Large Language Models (LLMs) for domain-specific tasks.
-- Developed robust post-training pipelines, incorporating RLHF and instruction tuning.
+- Worked on post-training pipelines involving RLHF and instruction tuning.
 - Collaborated on data curation, labeling protocols, and quality assessment for training datasets.
+- Focused on improving the quality and reliability of AI-generated outputs.
 
 ### 🤖 AI/ML Intern — Agivant Technologies
-*Jun 2025 – Sep 2025*
-- Built an end-to-end multi-agent AI system querying **10k+ nodes in a Neo4j knowledge graph**.
-- Implemented LLM-based entity extraction and designed semantic search + vector retrieval pipelines.
-- Worked on computer vision and NLP-based client solutions, focusing on scalable production-ready AI architectures.
+*June 2025 – September 2025*
+
+- Built an end-to-end multi-agent AI system querying **10,000+ nodes in a Neo4j knowledge graph**.
+- Implemented LLM-based entity extraction and semantic search with vector retrieval pipelines.
+- Contributed to computer vision and NLP-based client solutions.
+- Worked across data, backend, and AI components to develop integrated solutions.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌾 Khetiharii — AI Farmer Support Platform
+
+- Developed an agricultural technology platform focused on addressing practical farmer needs.
+- Built a working prototype using React, Firebase, and Gemini API.
+- Integrated AI-powered leaf disease detection and remedial recommendations.
+- Conducted field testing with **200 farmers**, receiving positive responses from **151 participants (75.5%)**.
+- Used user feedback to identify opportunities for future product improvements.
+
+**Focus Areas:** Problem Discovery | Product Requirements | Prototyping | User Feedback | Iteration
+
+### 🎓 Sahayak Guru — AI Teaching Assistant
+
+- Built a RAG-based AI teaching assistant to answer student queries using custom course materials.
+- Integrated Gemini API and LangChain for contextual retrieval and response generation.
+- Explored how generative AI can make educational content more accessible.
+- Submitted to Google Cloud Agentic AI Day.
+
+### 📈 Customer Churn Prediction
+
+- Developed an end-to-end machine learning classification model to predict customer churn for an OTT platform.
+- Built an interactive analytics dashboard to communicate actionable business insights.
+- Analyzed customer behaviour and potential factors associated with churn.
+
+### 📍 Aunty Scanner — Hyperlocal Food Discovery
+
+- Developed a hyperlocal food discovery platform connecting users with nearby home cooks and vendors.
+- Built using Flutter and Firebase.
+- Integrated location-based backend workflows and Google Maps API.
+
+---
+
+## 👥 Leadership & Community
+
+### 🎓 Campus Lead — Google Developer Group (GDG) on Campus, GNIOT
+
+- Selected **1 out of 500+ applicants** to lead campus developer community activities.
+- Organized and led **10+ technical events** covering Cloud, AI, and developer technologies.
+- Coordinated with students, speakers, and institutional stakeholders.
+- Helped create opportunities for students to learn, collaborate, and build.
+
+### 👨‍💻 Organizer — Kotlin User Group (KUG), Gurugram
+
+- Co-organized **5+ city-level meetups and hackathons**.
+- Collaborated with JetBrains and Google on developer community initiatives.
+- Supported event planning, coordination, and technical engagement.
 
 ---
 
 ## 🛠 Technical Skills
 
 - **💻 Programming:** Python | SQL | Java | JavaScript | TypeScript | Dart
-- **🤖 GenAI & LLMs:** Gemini API | RAG Systems | LangChain | Prompt Design & Engineering | Vector Databases
-- **📊 Machine Learning & Data:** TensorFlow | Scikit-learn | Pandas | NumPy | Data Visualization & Analytics
-- **🗄️ Databases & Cloud:** Neo4j | Firebase | Google Cloud Platform (GCP) | MySQL
-- **🎨 Frontend & App Dev:** React.js | Next.js | Flutter | Tailwind CSS | Framer Motion
+- **🤖 AI & GenAI:** Gemini API | RAG Systems | LangChain | Prompt Engineering | Vector Databases
+- **📊 Data & Machine Learning:** TensorFlow | Scikit-learn | Pandas | NumPy | Data Visualization
+- **🗄️ Databases & Cloud:** Neo4j | Firebase | MySQL | Google Cloud Platform
+- **🎨 Frontend & App Development:** React.js | Next.js | Flutter | Tailwind CSS
+- **🎯 Product & Analytics:** User Research | Product Requirements | Prototyping | Data Analysis | Experimentation
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Achievements & Recognition
 
-### 🎓 Sahayak Guru — AI Teaching Assistant
-- **RAG-based AI teaching assistant** designed to answer student queries using custom course materials.
-- Leveraged **Gemini API & LangChain** for contextual reasoning and prompt execution.
-- *Submitted to Google Cloud Agentic AI Day.*
-
-### 🌾 Khetiharii — AI Farmer Support Platform
-- AI-driven agriculture platform featuring **leaf disease detection** from images.
-- Built using a **React frontend**, a **Firebase backend**, and the **Gemini API** for intelligent remedial recommendations.
-
-### 📈 Customer Churn Prediction
-- Built an end-to-end ML classification model predicting user churn for an OTT platform.
-- Paired with an interactive analytics dashboard delivering actionable business insights.
-
-### 📍 Aunty Scanner
-- Hyperlocal food discovery platform connecting users with nearby home cooks and vendors.
-- Built with **Flutter & Firebase**, featuring location-based backend workflows and **Google Maps API**.
+- 🎓 **100% Merit Scholarship** — Tuition fee waiver awarded by the Government of Uttar Pradesh.
+- 🥈 **Microsoft Imagine Cup 2024 Semifinalist** — Competed among student teams across India.
+- 🚀 **Google Solution Challenge 2024 Bootcamp** — Designed solutions addressing UN Sustainable Development Goals.
+- 💻 **400+ DSA Problems Solved** — Across LeetCode, HackerEarth, and other coding platforms.
 
 ---
 
-## 🏆 Leadership & Community
+## 📜 Certifications & Cloud Badges
 
-- **🎓 Campus Lead — Google Developer Group (GDG) on Campus GNIOT**
-  - Selected **1 out of 500+ applicants** to lead GDG activities.
-  - Organized and led **10+ technical events** focusing on Cloud, AI, and developer tools.
-- **👨‍💻 Organizer — Kotlin User Group (KUG) Gurugram**
-  - Co-organized **5+ city-level meetups** and hackathons.
-  - Collaborated closely with JetBrains & Google to build and run regional developer initiatives.
+I hold **30+ Google Cloud Skill Badges** across AI, ML, Data Analytics, and Cloud Infrastructure.
 
----
-
-## 🏅 Achievements & Milestones
-
-- 🎓 **100% Merit Scholarship** — Awarded tuition waiver by the U.P. Government for outstanding academic excellence.
-- 🥈 **Semifinalist — Microsoft Imagine Cup 2024** — Competed against thousands of student teams across India.
-- 🚀 **Bootcamper — Google Solution Challenge 2024** — Designed solutions addressing UN Sustainable Development Goals (SDGs).
-- 💻 **400+ DSA Problems** — Active problem solver across LeetCode, HackerEarth, and other coding platforms.
+- **GenAI & Vertex AI:** Build Real World AI Applications with Gemini and Imagen, Prompt Design in Vertex AI, Analyze Sentiment with Natural Language API.
+- **Data & ML:** Create ML Models with BigQuery ML, Prepare Data for Looker Dashboards, Create a Secure Data Lake on Cloud Storage.
+- **Cloud Infrastructure:** Build Infrastructure with Terraform, Manage Kubernetes in Google Cloud, Develop Serverless Apps with Firebase.
+- **AWS:** AWS Educate — Introduction to Generative AI.
 
 ---
 
-## 📜 Selected Certifications & Cloud Badges
+## 🌱 Areas of Interest
 
-I hold **30+ Google Cloud Skill Badges** in AI, ML, Data, and Serverless infrastructure:
-- **GenAI / Vertex AI:** *Build Real World AI Applications with Gemini and Imagen*, *Prompt Design in Vertex AI*, *Analyze Sentiment with Natural Language API*.
-- **Data & ML:** *Create ML Models with BigQuery ML*, *Prepare Data for Looker Dashboards*, *Create a Secure Data Lake on Cloud Storage*.
-- **Cloud Infrastructure:** *Build Infrastructure with Terraform*, *Manage Kubernetes in Google Cloud*, *Develop Serverless Apps with Firebase*.
-- **AWS:** *AWS Educate Introduction to Generative AI*.
+- Building products that solve meaningful user problems.
+- AI-powered product experiences and responsible AI.
+- Product strategy, experimentation, and data-informed decisions.
+- Developer ecosystems and technology communities.
+- Collaborating with engineering, design, and business teams.
 
 ---
 
-⭐ Open to collaborating on impactful AI/ML projects, multi-agent frameworks, and real-world system architectures.
+<h3 align="center">Building at the intersection of Technology, Data & Product Thinking 🚀</h3>
+
+<p align="center">
+  ⭐ Always open to meaningful collaborations, product-building opportunities, and interesting technical challenges.
+</p>
